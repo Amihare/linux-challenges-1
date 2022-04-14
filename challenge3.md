@@ -1,6 +1,5 @@
 # Challenge 3
 - Dans le dossier « Challenges » créer un script qui prend en paramètre un chiffre et qui calcule sa table de multiplication (de 0 à 10)
-- [ ] Rendu : un fichier markdown contenant  contenant votre script
 
 ```touch multiplication```
 
@@ -29,3 +28,5 @@ for (( i=0 ; i<10 ; i++ ))
  - Lancer le script : 
 
 ```./multiplication```
+
+- [X] Rendu : un fichier markdown contenant  contenant votre script
