@@ -12,7 +12,7 @@
 
 ```
 sudo apt install imagemagick
-convert -resize 50% image.jpg image_converted.jpg
+convert -quality 50% image.jpg image_converted.jpg
 ```
 
 - [X] Rendu : toutes les lignes de commandes que vous avez tapées et l’image finale.
